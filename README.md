@@ -1,4 +1,4 @@
-# Experiment One
+# Motion estimation and compensation
 ## 实现运动估计、补偿算法
 + 实现全搜索、三步法，计算运动矢量，并画出运动矢量图
 + 匹配准则：SAD（绝对误差和）；块大小：8x8；搜索范围：[-w,w]（w为正整数）
